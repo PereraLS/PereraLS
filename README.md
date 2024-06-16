@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Lakshitha Perera</h1>
-<h3 align="center">Passionate IT Student </h3>
+<h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pererals&label=Profile%20views&color=0e75b6&style=flat" alt="pererals" /> </p>
 
