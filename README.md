@@ -13,7 +13,7 @@
 
 - 👨‍💻 I’m an Undergraduate at **SLIIT**
 
-- 💬 Ask me about **Web development|OOC**
+- 💬 Ask me about **Web development | OOC**
 
 - 📫 How to reach me **lakshithapereracm@gmail.com**
 
